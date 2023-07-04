@@ -29,4 +29,4 @@ g++ main.cpp
 ./a.out
 ```
 
-## This project was made by Vinod Meena (20CS10074)
+## This project was made by Kriti Bhardwaj (20CS30028)
