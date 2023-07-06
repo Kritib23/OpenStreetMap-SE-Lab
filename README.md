@@ -1,5 +1,5 @@
 # OpenStreetMap - Software-Lab
-This is the course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya.
+This is a course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya.
 
 ## About
 This is a Command Line Interface platform to parse an OpenStreetMap made using *C++* Programming language.<br>
@@ -29,4 +29,4 @@ g++ main.cpp
 ./a.out
 ```
 
-## This project was made by Kriti Bhardwaj (20CS30028)
+## This project was made by Kriti Bhardwaj
